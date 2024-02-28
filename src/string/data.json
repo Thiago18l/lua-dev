@@ -1,0 +1,6 @@
+{
+  "name": "Hero",
+  "health":  100,
+  "attack": 55,
+  "defense": 30
+}
